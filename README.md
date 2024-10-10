@@ -182,3 +182,141 @@
 - [Katalon](https://www.katalon.com/) – Website
 - [Postman](https://www.postman.com/) – Website
 - [SoapUI](https://www.soapui.org/) – Website
+
+- This commit expands the repository with additional categories of AI tools, enhancing the overall collection. The newly added categories include:
+
+21. **Content Generation**
+   - [Narrato](https://narrato.com)
+   - [Kafkai](https://kafkai.com)
+   - [Shortly AI](https://www.shortlyai.com)
+   - [Peppertype](https://peppertype.ai)
+   - [Scalenut](https://www.scalenut.com)
+   - [ContentBot](https://contentbot.ai)
+
+22. **Marketing**
+   - [Phrasee](https://phrasee.co)
+   - [Persado](https://www.persado.com)
+   - [Smartwriter](https://smartwriter.ai)
+   - [Jarvis AI](https://www.jasper.ai)
+   - [Copyshark](https://www.copyshark.ai)
+   - [Writesonic](https://writesonic.com)
+
+23. **AI Assistants**
+   - [X.ai](https://x.ai)
+   - [Clara Labs](https://claralabs.com)
+   - [Motion](https://www.motionapp.com)
+   - [Sembly AI](https://www.sembly.ai)
+   - [Reclaim AI](https://reclaim.ai)
+   - [TimeHero](https://timehero.com)
+
+24. **Business & Productivity**
+   - [Scribe](https://scribehow.com)
+   - [Toggl](https://toggl.com)
+   - [Motion](https://www.motionapp.com)
+   - [Reclaim AI](https://reclaim.ai)
+   - [ClickUp AI](https://www.clickup.com)
+   - [Roam Research](https://roamresearch.com)
+
+25. **Creative Writing & Storytelling**
+   - [Novel AI](https://novelai.net)
+   - [Plotagon](https://plotagon.com)
+   - [AIDungeon](https://play.aidungeon.io)
+   - [ChatGPT (Creative Mode)](https://chat.openai.com)
+   - [Poe by Quora](https://poe.com)
+   - [DeepStory AI](https://deepstory.ai)
+
+26. **Education**
+   - [Khan Academy AI](https://www.khanacademy.org)
+   - [EdPuzzle](https://edpuzzle.com)
+   - [Quizlet](https://quizlet.com)
+   - [Socratic](https://socratic.org)
+   - [Elsa Speak](https://elsaspeak.com)
+   - [Gradescope](https://www.gradescope.com)
+
+27. **Data Analysis & Visualization**
+   - [Tableau](https://www.tableau.com)
+   - [Looker](https://looker.com)
+   - [ChartMogul](https://chartmogul.com)
+   - [Narrator](https://narrator.ai)
+   - [Explorium](https://explorium.ai)
+   - [Trifacta](https://www.trifacta.com)
+   - [Visme](https://www.visme.co)
+
+28. **AI Image Enhancement & Editing**
+   - [Let’s Enhance](https://letsenhance.io)
+   - [Upscale (Stockphoto)](https://upscale.media)
+   - [Remove.bg](https://www.remove.bg)
+   - [Vance AI](https://vanceai.com)
+   - [Topaz Labs](https://topazlabs.com)
+   - [BigJPG](https://bigjpg.com)
+
+29. **Customer Support**
+   - [Ada Support](https://ada.support)
+   - [Tars](https://hellotars.com)
+   - [Forethought AI](https://forethought.ai)
+   - [LivePerson](https://www.liveperson.com)
+   - [Kustomer](https://www.kustomer.com)
+   - [Zendesk](https://www.zendesk.com)
+
+30. **Design Inspiration**
+   - [Dribbble](https://dribbble.com)
+   - [Behance](https://www.behance.net)
+   - [Niice](https://niice.co)
+   - [Muzli](https://muz.li)
+   - [Designspiration](https://www.designspiration.com)
+   - [Coolors](https://coolors.co)
+
+31. **Voice and Audio**
+   - [Speechelo](https://speechelo.com)
+   - [Synthesia](https://www.synthesia.io)
+   - [Podcastle](https://podcastle.ai)
+   - [Auphonic](https://auphonic.com)
+   - [Descript](https://www.descript.com)
+   - [Veed.io](https://www.veed.io)
+
+32. **Mind Mapping & Brainstorming**
+   - [MindMeister](https://www.mindmeister.com)
+   - [Miro](https://miro.com)
+   - [Lucidspark](https://lucidspark.com)
+   - [Coggle](https://coggle.it)
+   - [XMind](https://www.xmind.net)
+   - [MindNode](https://mindnode.com)
+
+33. **Task Management**
+   - [Trello](https://trello.com)
+   - [Monday.com](https://monday.com)
+   - [Asana](https://asana.com)
+   - [ClickUp](https://clickup.com)
+   - [Notion AI](https://www.notion.so/product/ai)
+   - [Todoist](https://todoist.com)
+
+34. **Research Tools**
+   - [Research Rabbit](https://www.researchrabbit.com)  
+     Assists in academic research by suggesting papers, building a network of related papers, and helping researchers find and organize relevant literature.
+   - [Zotero](https://www.zotero.org)  
+     Open-source reference manager that helps collect, organize, and cite research sources.
+   - [Connected Papers](https://connectedpapers.com)  
+     A tool that helps researchers and students find relevant papers by visualizing connections between academic works.
+   - [Litmaps](https://www.litmaps.com)  
+     A visual tool that tracks citations, helping researchers discover and map out the flow of scientific knowledge.
+   - [Semantic Scholar](https://www.semanticscholar.org)  
+     AI-powered tool that helps you search for academic papers and uses machine learning to extract important information from research.
+   - [Elicit](https://elicit.org)  
+     Research assistant that helps with scientific literature review by using AI to pull relevant papers and summarize them.
+   - [Iris.ai](https://iris.ai)  
+     AI tool that helps researchers find and understand scientific content, matching research papers with problems in a systematic way.
+   - [Scite](https://www.scite.ai)  
+     AI-powered research assistant that analyzes and contextualizes citations, showing if a paper supports, contradicts, or just mentions a referenced work.
+   - [Mendeley](https://www.mendeley.com)  
+     Reference management tool that enables researchers to organize research papers, collaborate with colleagues, and discover new research.
+   - [Paperpile](https://paperpile.com)  
+     A cloud-based reference manager that simplifies academic research by allowing you to collect, organize, and cite research papers.
+   - [Scholarcy](https://www.scholarcy.com)  
+     Summarizes academic articles and extracts important information to help researchers identify key findings quickly.
+   - [QuillBot for Research](https://quillbot.com)  
+     Paraphrasing tool with summarization and citation generation features for academic writing and research.
+   - [Research AI](https://researchai.com)  
+     AI-powered platform that helps researchers find, organize, and summarize academic literature.
+
+This  aims to provide a more comprehensive resource for users exploring AI tools across various fields. Future updates will continue to enrich this repository with more tools and enhancements based on user feedback.
+
